@@ -1,6 +1,6 @@
-# [React Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/)
+# [react-client-systemchekup](https://github.com/arifcseiu0809git/BL-Healthcheckup-Apps.git/)
 
-**Datta Able** is an open-source **React Dashboard** that provides a colorful and modern design. Datta Able React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
+**react-client-systemchekup** is an open-source **React Dashboard** that provides a colorful and modern design. react-client-systemchekup React Free is the most stylised React Free Admin Template, around all other admin templates in the market. It comes with high feature-rich pages and components with fully developer-centric code. The product comes with a simple JWT authentication flow: login/register/logout.
 
 <br />
 
@@ -9,20 +9,7 @@
 - Modern aesthetics UI design - Designed by [CodedThemes](https://bit.ly/37fF9RT)
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
-- Full-stack ready using **[Node JS API Server](https://github.com/app-generator/api-server-nodejs)** (open-source project)
   - Features: Typescript / SQLite / TypeORM / Joy (validation) / Passport library - `passport-jwt` strategy.
-
-<br />
-
-> Links
-
-- 👉 [React Node JS Datta Able](https://appseed.us/product/datta-able/api-server-nodejs/react/) - product page
-- 👉 [React Node JS Datta Able](https://react-node-js-datta-able.appseed-srv1.com/) - LIVE Demo
-- 👉 Free [Support](https://appseed.us/support) via **Github** (issues tracker), Email and [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-![React Datta Able - Full-stack product powered by a simple NodeJS API backend.](https://user-images.githubusercontent.com/51070104/175767137-e9b7cb1b-ae57-4ea3-9e31-4b976ab4465f.png)
 
 <br >
 
@@ -31,8 +18,8 @@
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/react-datta-able.git
-$ cd react-datta-able
+$ git clone https://github.com/arifcseiu0809git/BL-Healthcheckup-Apps.git
+$ cd react-client-systemchekup
 ```
 
 > Start the app in Docker
@@ -45,17 +32,6 @@ The React UI starts on port `3000` and expects an API server on port `5000` (sav
 
 <br /> 
 
-> **Note**: This product can be used with other API Servers for a complete fullstack experience. **ALL API servers use an unified interface**
-
-- [Django API Server](https://github.com/app-generator/api-server-django) - open-source product
-- [Flask API Server](https://github.com/app-generator/api-server-flask) - open-source product
-- [Node JS API Server](https://github.com/app-generator/api-server-nodejs) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
-- [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
-    - Typescript / SQLite / TypeORM / Joy Validation / Docker
-    - Typescript / MongoDB / Mongoose / Joy Validation / Docker (separate branch, same project)
-
-<br />
-
 ## ✨ How to use it
 
 To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
@@ -63,8 +39,8 @@ To use the product Node JS (>= 12.x) is required and GIT to clone/download the p
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/react-datta-able.git
-$ cd react-datta-able
+$ git clone https://github.com/arifcseiu0809git/BL-Healthcheckup-Apps.git
+$ cd react-client-systemchekup
 ```
 
 <br >
@@ -104,14 +80,6 @@ const config = {
 
 <br />
 
-**API Server Descriptor** - POSTMAN Collection
-
-The API Server signature is provided by the [Unified API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition)
-
-- [API POSTMAN Collection](https://github.com/app-generator/api-server-unified/blob/main/api.postman_collection.json) - can be used to mock (simulate) the backend server or code a new one in your preferred framework. 
-
-<br />
-
 ## ✨ Node JS API Server
 
 The product is also open-source and is already configured to work with Berry Dashboard Template - product features:
@@ -120,14 +88,6 @@ The product is also open-source and is already configured to work with Berry Das
 - JWT authentication (`passport-jwt` strategy)
 - Persistence: SQLite 
 
-> Links
-
-- [Node JS API](https://github.com/app-generator/api-server-nodejs) - source code
-- [Node JS API](https://appseed.us/boilerplate-code/nodejs-starter) - product page
-
-<br />
-
-![Node JS API - Open-source API server built on top of Express Nodejs Framework.](https://user-images.githubusercontent.com/51070104/124934824-c210a700-e00d-11eb-9d01-e05bd8bfb608.png)
 
 <br />
 
@@ -136,7 +96,7 @@ The product is also open-source and is already configured to work with Berry Das
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/app-generator/api-server-nodejs.git
+$ git clone https://github.com/arifcseiu0809git/BL-Healthcheckup-Apps.git
 $ cd api-server-nodejs
 ```
 
@@ -163,8 +123,3 @@ $ yarn dev
 ```
 
 The API server will start using the `PORT` specified in `.env` file (default 5000).
-
-<br />
-
----
-[React Node JS Datta Able](https://appseed.us/product/react-node-js-datta-able) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
