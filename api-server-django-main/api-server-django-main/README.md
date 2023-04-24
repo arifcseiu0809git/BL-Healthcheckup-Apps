@@ -135,3 +135,19 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ---
 **Django API Server** - provided by AppSeed [App Generator](https://appseed.us)
+
+
+**Deployment guide**
+https://www.mattwoodward.com/2016/07/23/running-a-django-application-on-windows-server-2012-with-iis/
+<br/>
+effective guides: https://chasesawyer.dev/post/2020/03/django-api-apps-on-windows-iis/
+<br/>
+sqllite 3 write permission issue: 
+<br/>
+https://stackoverflow.com/questions/46415515/django-login-error-attempt-to-write-a-readonly-database-in-iis
+<br/>
+https://i.stack.imgur.com/1EkJb.png
+<br/>
+For react application deployment:
+<br/>
+https://www.letsreact.org/deploy-react-application-on-iis-server/
